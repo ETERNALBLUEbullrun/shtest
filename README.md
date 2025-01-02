@@ -1,2 +1,2 @@
 # shtest
-Exercise all (BA)SH features as succintly as feasible without side-effects
+Goal: use all of _POSIX_ `/bin/sh` with as low amount possible of code.
